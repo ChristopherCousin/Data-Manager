@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/imgs">
+        <file>imgs/add.png</file>
+        <file>imgs/delete.png</file>
+        <file>imgs/exit.png</file>
+        <file>imgs/search.png</file>
+        <file>imgs/showall.png</file>
+        <file>imgs/customer.png</file>
+        <file>imgs/if_database_edit_84524.png</file>
+    </qresource>
+</RCC>
